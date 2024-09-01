@@ -14,7 +14,7 @@ export const Modals = () => {
 
   return (
     <>
-      <CreateWorkspaceModal />;
+      <CreateWorkspaceModal />
     </>
   );
 };
